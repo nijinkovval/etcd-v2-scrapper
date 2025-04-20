@@ -3,5 +3,7 @@ etcd-v2-scrapper is a lightweight tool designed to scan, scrape, and extract dat
 
 🔍 Features
 Connects to etcd v2 APIs and lists all keys/values
+
 Outputs clean reports for further analysis
+
 Useful for both reconnaissance and security auditing
