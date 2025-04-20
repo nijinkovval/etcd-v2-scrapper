@@ -9,6 +9,10 @@ etcd-v2-scrapper is a lightweight tool designed to scan, scrape, and extract dat
 
 - Useful for both reconnaissance and security auditing
 
+**To install Dependencies** 
+
+`pip install -r requirements.txt`
+
 
 
 ⚠️ Disclaimer
