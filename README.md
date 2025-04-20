@@ -8,3 +8,9 @@ etcd-v2-scrapper is a lightweight tool designed to scan, scrape, and extract dat
 - Outputs clean reports for further analysis
 
 - Useful for both reconnaissance and security auditing
+
+
+
+⚠️ Disclaimer
+
+**This tool is intended for educational and ethical security testing only. Do not use it on systems you do not own or have explicit permission to test.**
