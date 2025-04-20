@@ -1,18 +1,26 @@
-# etcd-v2-scrapper
-etcd-v2-scrapper is a lightweight tool designed to scan, scrape, and extract data from public-facing etcd v2 endpoints. This utility helps security researchers, penetration testers, and bug bounty hunters identify misconfigured or exposed etcd instances and analyze the data they expose.
+# 🧠 etcd-v2-scrapper
 
-🔍 Features
+**etcd-v2-scrapper** is a lightweight Python tool built to **scan, scrape, and extract data** from publicly accessible **etcd v2** endpoints. Designed for **security researchers**, **penetration testers**, and **bug bounty hunters**, this tool helps identify exposed or misconfigured etcd instances and analyze sensitive data they may reveal.
 
-- Connects to etcd v2 APIs and lists all keys/values
+---
 
-- Outputs clean reports for further analysis
+## 🔍 Features
 
-- Useful for both reconnaissance and security auditing
+- 🔐 Connects to etcd v2 API endpoints to enumerate key-value pairs  
+- 📄 Outputs clean and structured data for analysis  
+- 🕵️‍♂️ Great for reconnaissance, audits, and bug bounty investigations  
 
-**To install Dependencies** 
+---
 
-`pip install -r requirements.txt`
+## ⚙️ Installation
 
+Install the required Python packages:
+
+```pip install -r requirements.txt```
+
+## 🚀 Usage
+
+```python etcd_v2_scraper.py <ip> <port>```
 
 
 ⚠️ Disclaimer
