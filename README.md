@@ -18,3 +18,6 @@ etcd-v2-scrapper is a lightweight tool designed to scan, scrape, and extract dat
 ⚠️ Disclaimer
 
 **This tool is intended for educational and ethical security testing only. Do not use it on systems you do not own or have explicit permission to test.**
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nijinn)
+
